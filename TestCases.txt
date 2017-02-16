@@ -1,0 +1,13 @@
+1) Creating a linked list works.
+2) ElementAt works
+3) Adding an item works.
+4) Adding an item at position works.
+5) Adding at wrong position results in exception.
+	a) pos < 0
+	b) pos > length
+6) Removing an item works.
+7) Removing an item at position works
+8) Removing at wrong position results in exception.
+	a) pos < 0
+	b) pos > length
+9) 
