@@ -10,4 +10,6 @@
 8) Removing at wrong position results in exception.
 	a) pos < 0
 	b) pos > length
-9) 
+9) ElementAt at wrong position => exception
+	a) pos < 0
+	b) pos > length
